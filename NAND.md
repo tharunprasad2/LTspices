@@ -1,7 +1,8 @@
 this is the CMOS NAND GATE
+![Screenshot (69)](https://github.com/user-attachments/assets/8044d93b-40d5-461e-acca-ad0e71411b97)
 this is the waveform of nand gate
 ![Screenshot (71)](https://github.com/user-attachments/assets/ef0724cd-1b86-44a9-ab8b-02738cbd8b03)
-![Screenshot (69)](https://github.com/user-attachments/assets/8044d93b-40d5-461e-acca-ad0e71411b97)
+
 ![Screenshot (68)](https://github.com/user-attachments/assets/9e7d27c9-5442-4411-9dd4-de068bc20fbd)
 ![Screenshot (67)](https://github.com/user-attachments/assets/28b7882c-d4ed-4d10-83d6-70b8dc6da5c9)
 
