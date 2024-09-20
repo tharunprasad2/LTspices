@@ -3,4 +3,5 @@ This is the function of the CMOS or gate circuit and the Waveform:
 ![Screenshot (78)](https://github.com/user-attachments/assets/c08ea758-d53d-435b-a3f1-9d22964dd1d0)
 Waveform for cmos OR gate:
 ![Screenshot (79)](https://github.com/user-attachments/assets/c3d0bba7-bf02-44f9-9044-51a6a69e1860)
+![Screenshot (68)](https://github.com/user-attachments/assets/a5788a81-a08e-48a5-812f-c01788d18f8e)
 
